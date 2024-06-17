@@ -1,4 +1,5 @@
-![logo](https://github.com/Soumya-9641/Soumya-9641/blob/main/Add%20a%20heading1.png](https://media.licdn.com/dms/image/D5616AQGJqS8hgTxwzg/profile-displaybackgroundimage-shrink_350_1400/0/1713148080629?e=1724284800&v=beta&t=qFBLbuQ-eEQsLamqtWOwPJyqH1huS_YDPXnYoWxpoJM)](https://externlabs.com/blogs/wp-content/uploads/2021/12/2400%D1%851260-rw-blog-node-js.png)
+![logo](https://github.com/Soumya-9641/Soumya-9641/blob/main/Add%20a%20heading1.png)
+![logo](https://externlabs.com/blogs/wp-content/uploads/2021/12/2400%D1%851260-rw-blog-node-js.png)
 <h1 align="center">Hi 👋, I'm Soumyadip Gantait</h1>
 <h3 align="center">A passionate fullstack(react and Node.js) developer from India</h3>
 <img align="right" alt="coding" width="350 height="100" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
