@@ -1,4 +1,4 @@
-![logo](https://github.com/Soumya-9641/Soumya-9641/blob/main/Add%20a%20heading1.png)
+
 ![logo](https://externlabs.com/blogs/wp-content/uploads/2021/12/2400%D1%851260-rw-blog-node-js.png)
 <h1 align="center">Hi 👋, I'm Soumyadip Gantait</h1>
 <h3 align="center">A passionate fullstack(react and Node.js) developer from India</h3>
